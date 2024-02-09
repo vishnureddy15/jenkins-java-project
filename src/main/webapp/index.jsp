@@ -12,7 +12,7 @@
         <a href="#"><img src="images/logo.svg" alt="logo"></a>
     </nav>
     <div class="form-wrapper">
-    <h2>VISHNU NETFLIX SIGN IN V-6.0</h2>
+    <h2>KOUHIK NETFLIX SIGN IN V-6.0</h2>
         <form action="#">
             <div class="form-control">
                 <input type="text" required>
@@ -22,7 +22,7 @@
                 <input type="password" required>
                 <label>SECRET</label>
             </div>
-            <button type="submit">WELCOME TO VISHNU NETFLIX V-7</button>
+            <button type="submit">WELCOME TO KOUSHIK NETFLIX V-7</button>
             <div class="form-help"> 
                 <div class="remember-me">
                     <input type="checkbox" id="remember-me">
